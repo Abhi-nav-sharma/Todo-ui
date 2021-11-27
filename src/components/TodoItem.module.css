@@ -1,0 +1,16 @@
+.tasksCont {
+  background-color: purple;
+  margin: 10px auto;
+  width: 300px;
+  padding-top: 20px;
+  height: 40px;
+  border-radius: 5px;
+}
+.completedTasks {
+  background-color: rgba(199, 64, 199, 0.616);
+  margin: 10px auto;
+  width: 300px;
+  padding-top: 20px;
+  height: 40px;
+  border-radius: 5px;
+}
